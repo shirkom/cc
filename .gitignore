@@ -1,0 +1,5 @@
+.env
+results/*
+!results/.gitkeep
+n8n/credentials/credentials.json
+__pycache__/
